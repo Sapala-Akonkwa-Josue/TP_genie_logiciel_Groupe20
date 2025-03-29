@@ -1,0 +1,20 @@
+git clone https://github.com/Sapala-Akonkwa-Josue/TP_genie_logiciel_Groupe20.git
+cd TP_genie_logiciel_Groupe
+git status
+git checkout -b ici tu met ton nom 
+
+Ici tu fais des modifications du projet C# meme des commentaires seulement
+ou bien tu efface quelque chose, puis tu enregistre
+
+git add .
+gir remote
+git remote -v
+git commit -m "Ajout d'une page html "
+git push origin Le nom que tu as mis
+
+
+shekinahmapendanobanga@gmail.com
+wxyzabcd1020
+
+git config --global user.name "Saidi_Masudi_Sadock"
+git config --global user.email "sadockmasudi0@gmail.com"
