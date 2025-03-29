@@ -1,0 +1,13 @@
+E:\CSharp\SingletonCSharp\TestAbstractClassUsage\bin\Debug\TestAbstractClassUsage.exe.config
+E:\CSharp\SingletonCSharp\TestAbstractClassUsage\bin\Debug\TestAbstractClassUsage.exe
+E:\CSharp\SingletonCSharp\TestAbstractClassUsage\bin\Debug\TestAbstractClassUsage.pdb
+E:\CSharp\SingletonCSharp\TestAbstractClassUsage\bin\Debug\AbstractClassUsage.dll
+E:\CSharp\SingletonCSharp\TestAbstractClassUsage\bin\Debug\SingletonLibrary.dll
+E:\CSharp\SingletonCSharp\TestAbstractClassUsage\bin\Debug\AbstractClassUsage.pdb
+E:\CSharp\SingletonCSharp\TestAbstractClassUsage\bin\Debug\SingletonLibrary.pdb
+E:\CSharp\SingletonCSharp\TestAbstractClassUsage\obj\Debug\TestAbstractClassUsage.csprojResolveAssemblyReference.cache
+E:\CSharp\SingletonCSharp\TestAbstractClassUsage\obj\Debug\TestAbstractClassUsage.exe
+E:\CSharp\SingletonCSharp\TestAbstractClassUsage\obj\Debug\TestAbstractClassUsage.pdb
+C:\Users\Win !0\groupe20\Groupe20_C#\SingletonCSharp\TestAbstractClassUsage\bin\Debug\TestAbstractClassUsage.exe.config
+C:\Users\Win !0\groupe20\Groupe20_C#\SingletonCSharp\TestAbstractClassUsage\obj\Debug\TestAbstractClassUsage.exe
+C:\Users\Win !0\groupe20\Groupe20_C#\SingletonCSharp\TestAbstractClassUsage\obj\Debug\TestAbstractClassUsage.pdb

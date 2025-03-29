@@ -1,0 +1,7 @@
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\InterfaceUsage\bin\Debug\InterfaceUsage.dll
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\InterfaceUsage\bin\Debug\InterfaceUsage.pdb
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\InterfaceUsage\bin\Debug\SingletonLibrary.dll
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\InterfaceUsage\bin\Debug\SingletonLibrary.pdb
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\InterfaceUsage\obj\Debug\InterfaceUsage.dll
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\InterfaceUsage\obj\Debug\InterfaceUsage.pdb
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\InterfaceUsage\obj\Debug\InterfaceUsage.csprojResolveAssemblyReference.cache

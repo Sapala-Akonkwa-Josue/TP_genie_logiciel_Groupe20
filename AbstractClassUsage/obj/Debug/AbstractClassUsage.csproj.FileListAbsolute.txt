@@ -1,0 +1,14 @@
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\bin\Debug\AbstractClassUsage.dll
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\bin\Debug\AbstractClassUsage.pdb
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\bin\Debug\SingletonLibrary.dll
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\bin\Debug\SingletonLibrary.pdb
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\obj\Debug\AbstractClassUsage.dll
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\obj\Debug\AbstractClassUsage.pdb
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\obj\Debug\AbstractClassUsage.csprojResolveAssemblyReference.cache
+E:\CSharp\SingletonCSharp\AbstractClassUsage\bin\Debug\AbstractClassUsage.dll
+E:\CSharp\SingletonCSharp\AbstractClassUsage\bin\Debug\AbstractClassUsage.pdb
+E:\CSharp\SingletonCSharp\AbstractClassUsage\bin\Debug\SingletonLibrary.dll
+E:\CSharp\SingletonCSharp\AbstractClassUsage\bin\Debug\SingletonLibrary.pdb
+E:\CSharp\SingletonCSharp\AbstractClassUsage\obj\Debug\AbstractClassUsage.csprojResolveAssemblyReference.cache
+E:\CSharp\SingletonCSharp\AbstractClassUsage\obj\Debug\AbstractClassUsage.dll
+E:\CSharp\SingletonCSharp\AbstractClassUsage\obj\Debug\AbstractClassUsage.pdb
